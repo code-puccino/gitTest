@@ -2,6 +2,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, have a capuccino!')  # Press ⌘F8 to toggle the breakpoint.
+    print("hi, i am a git master")
 
 
 # Press the green button in the gutter to run the script.
