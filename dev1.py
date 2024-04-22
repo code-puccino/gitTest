@@ -3,5 +3,5 @@
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+    print('some code..line1')
     print('some code...sample code....')
-     print('some code...sample code....')
